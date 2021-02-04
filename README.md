@@ -2,7 +2,7 @@
 
 ![Gaboso](https://2.bp.blogspot.com/-XUVWtKwkljc/WhEcTjqss1I/AAAAAAAAAEk/wDC0pgWtFPwX5q6P0gkPouCqED5oSW-KQCLcBGAs/s1600/1475934536-2.png "Gaboso")
 
-:computer: _Web  Engenieer in HCM city :vietnam:
+:computer: Web  Engenieer in HCM city :vietnam:
 
 ### BackEnd
 
@@ -24,8 +24,6 @@
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-![MacOS](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=macs&logoColor=ffffff)
+![MacOS](http://img.shields.io/badge/-MacOS-A81D33?style=flat-square&logo=macOS&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
----
-⭐️ From [Gaboso](https://github.com/Gaboso)
